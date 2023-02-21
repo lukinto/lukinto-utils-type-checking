@@ -1,0 +1,26 @@
+{
+  "name": "lukinto-utils-type-checking",
+  "version": "1.0.0",
+  "description": "A library of type checking utilities.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lukinto/lukinto-utils-type-checking.git"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "type-checking",
+    "library",
+    "utils",
+    "utilities",
+    "javascript",
+    "js"
+  ],
+  "author": "lukinto",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
